@@ -6,7 +6,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 import os
 import tarfile
 import traceback
-
 import logging
 
 logger = logging.getLogger(__name__)
