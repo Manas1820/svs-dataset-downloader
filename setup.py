@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='svs_dataset_downloader',
     packages=['svs_dataset_downloader'],
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     description='Testing installation of Package',
     long_description=long_description,
@@ -31,5 +31,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
 
-    download_url="https://github.com/Manas1820/svs-dataset-downloader/archive/refs/tags/v0.0.1.tar.gz",
+    download_url="https://github.com/Manas1820/svs-dataset-downloader/archive/refs/tags/v0.0.2.tar.gz",
 )
