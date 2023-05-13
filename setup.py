@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='svs-dataset-downloader',
-    packages=['svs-dataset-downloader'],
+    name='svs_dataset_downloader',
+    packages=['svs_dataset_downloader'],
     version='0.0.1',
     license='MIT',
     description='Testing installation of Package',
