@@ -1,1 +1,1 @@
-# tnbc-downloader
+# svs-dataset-downloader
