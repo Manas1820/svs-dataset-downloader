@@ -44,3 +44,11 @@ downloader.unzip_files(directory="./downloads")
 ```
 
 Note: Before using this class, make sure you have the required dependencies installed (Selenium WebDriver, ChromeDriver, and tarfile module).
+
+## 👥 Authors
+
+👤 **Manas**
+* Github: [@manas1820](https://github.com/manas1820)
+
+👤 **Nishita**
+* Github: [@NishitaPatnaik21](https://github.com/NishitaPatnaik21)
